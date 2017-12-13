@@ -2,7 +2,8 @@
 
 This project is created using https://github.com/Microsoft/TypeScript-React-Starter
 
-Follow above link to install create-react-app tools and create a react typescript project using the same. 
+Follow above link to install create-react-app tools and to create a new react typescript application.
+
 
 ## Software Requirements
 
@@ -17,7 +18,7 @@ TypeScript standalone compiler [Not mandatory], for introduction purpose only.
 > npm install typescript -g
 
 
-#### Running the project
+## Running the project
 > git clone https://github.com/nodesense/qualcomm-react-dec-2017
 
 > cd qualcomm-react-dec-2017
