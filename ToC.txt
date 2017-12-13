@@ -1,0 +1,66 @@
+What is React
+
+What react is and what it is not
+Advantages
+Limitations
+How react works
+Basics of ES6
+
+
+Introduction to TSX (Typescript)
+
+Setting up your ReactJS Development Environment
+
+Setup NodeJs and Visual Studio Code
+Using npm & package.json file
+Webpack & ES6 Introduction
+Organizing your source code
+React browser plugin
+ 
+
+Creating a simple React Application
+
+A simple react component with TSX template (typescript)
+Nesting Components
+React render
+React Props
+Props validation with data types
+States, Initialize states and update states
+ 
+
+React UI and Forms
+
+Form components e.g. input, textarea
+Controlled form components
+Uncontrolled form components
+Checkboxes and Radios
+Select box with default selected value
+Form validation
+Styles
+Animation Introduction
+ 
+
+Component Life Cycle
+
+Initial Render
+Props Change
+Stage Change
+Component Unmount
+ 
+
+Event Handling in TSX
+
+onClick, onKeyUp and other useful events in React
+Sharing events across the components
+ 
+
+Advanced React Components
+
+Component Life-Cycle
+Virtual DOM
+Events
+State Machines
+Compositions
+Communication Between Components
+Reusable Components
+Short introduction and basics of Redux
